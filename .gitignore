@@ -1,0 +1,32 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+
+# Tokusetsu4 ローカル作業領域（Phase 2 で git clone する upstream）
+# GitHub Pages に source を露出させないため、コミットしない
+/tokusetsu4-upstream/
+
+# Cache / temp
+.cache/
+.tmp/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Environment
+.env
+.env.*
+!.env.example
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+
+# Windows ダウンロード時の ADS (Zone.Identifier)
+*:Zone.Identifier
