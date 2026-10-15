@@ -64,7 +64,7 @@ Share Image,,,,,,,"TwitterなどのSNSにシェアされたときに表示する
 ,File path,,,,,,
 Site Icon (favicon),outofmemoryfavicon.png,,,,,,"サイトのアイコン（favicon）。
 32*32pxのpngファイル。"
-Hide on Search Results,✅,,,,,,"Googleなどの検索結果に載らないようにします。
+Hide on Search Results,-,,,,,,"Googleなどの検索結果に載らないようにします。
 デフォルト: -"
 -Organization-,,,,,,,
 Organization Name,Ars Caerula,,,,,*,作品の制作団体（レーベルやサークル）名。
